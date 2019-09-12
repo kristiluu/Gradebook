@@ -71,7 +71,7 @@ def addData(studentDict, key):
     return (studentDict, key)
 
 def printFile(studentDict, key, gpaDict):
-    '''Print all data in the same format as the printData function, but to the file lab3out.txt
+    '''Print all data in the same format as the printData function, but to an outfile
     
     Arguments:
         studentDict {dictionary} 
@@ -208,7 +208,8 @@ def commaCheck(userInput):
     return False
 
 def gradeCheck(userInput):
-    '''Accesses the 3rd field of every tuple in the dictionary. This will check if the grade is appropriate (correct alphabet and sign).
+    '''Accesses the 3rd field of every tuple in the dictionary. This will check if the grade is 
+    appropriate (correct alphabet and sign).
     
     Arguments:
         userInput {string} 
@@ -233,7 +234,8 @@ def gradeCheck(userInput):
     return False
 
 def classNumCheck(userInput):
-    '''Checks to make sure that the input by user is an integer for number of classes to add for a new student.
+    '''Checks to make sure that the input by user is an integer for number of 
+    classes to add for a new student.
     
     Arguments:
         userInput {string}
