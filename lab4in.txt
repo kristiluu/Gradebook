@@ -1,0 +1,24 @@
+i
+Guido van Rossum,CIS 41A,4.5,A-,CIS 22A,4.5,A,ARTS 1A,4,B-
+s
+Linus Torvalds,CIS 18B,4.5,A,BIOL 10,5,C-
+e
+Grace Hopper,CIS 22A,4.5,A+,BUS 55,5,B+
+i
+A Record,CIS 35A,4.5,B,MATH 1A
+i
+Alan Turing,CIS 22A,4.5,A
+e
+Katherine Goble,CIS 22C,4.5,A-,MATH 1B,5,A,POLI 1,5,C
+i
+Carlos Guestrin,CIS 41A,4.5,A,BUS 55,5,A,BUS 18,5,B+,HUMI 16,4,A-
+c
+Ima Student,CIS 40,D,PE 1,0.5,F
+i
+Edsger Dijkstra,CIS 22C,4.5,A+,MATH 1A,5,B+
+s
+Richard Stallman,CIS 18A,4.5,B-
+s
+Ellen Ochoa,CIS 41A,4.5,B,PHYS 4C,5,A-
+e
+A Student,CIS 33,4.5,C,HIST 5,5,A
