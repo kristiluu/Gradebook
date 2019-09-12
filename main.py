@@ -1,5 +1,4 @@
-# Kristi Luu - Lab 3 
-# Worked by myself 
+# Kristi Luu 
 
 def getData(filename):
     '''Read in each line of the file and store it in a dictionary
