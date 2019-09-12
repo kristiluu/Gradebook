@@ -1,11 +1,6 @@
 # Kristi Luu - Lab 3 
 # Worked by myself 
 
-# The GPA for each student is stored in a NEW dictionary
-# The reason why I chose this is because if I have the same keys as the 
-# student dictionary, I can print it out with the same key (ABC order) and 
-# have the ability to format it
-
 def getData(filename):
     '''Read in each line of the file and store it in a dictionary
     
