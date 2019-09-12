@@ -9,7 +9,7 @@ class StudentRecord(Student):
         The values of each key is an object (one object = one student)'''
         self.__countryList = []
         try:    
-            with open("lab4in.txt") as fh:
+            with open("record.txt") as fh:
                     self.__studentRecord = {} #database
                     count = 1
                     for line in fh: 
