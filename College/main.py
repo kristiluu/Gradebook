@@ -1,4 +1,4 @@
-# Kristi Luu - lab 4
+# Kristi Luu 
 from student import Student, IntlStudent, StudentEmployee
 
 class StudentRecord(Student):
