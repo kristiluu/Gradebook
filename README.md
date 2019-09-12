@@ -8,6 +8,11 @@ The program calculates the GPA for a group of student records and lets the user 
 
 The program organizes students by their student category (International, Employee, or none) and prints the list.
 
-## Built With
+## Built with
 ---
 - Python
+
+### Concepts used
+--- 
+- Classes
+- Objects
