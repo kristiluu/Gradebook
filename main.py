@@ -78,7 +78,7 @@ def printFile(studentDict, key, gpaDict):
         key {list} 
         gpaDict {dictionary}
     '''
-    with open ('lab3out.txt', 'w') as outfile:
+    with open ('studentclass.txt', 'w') as outfile:
         for key in sorted(studentDict): 
             outfile.write(key)
             outfile.write('\n')
@@ -252,7 +252,7 @@ def classNumCheck(userInput):
         return False
 
 def main():  
-    infilename = 'lab3in.txt'
+    infilename = 'enrolledstudents.txt'
     (dictionary, key) = getData(infilename)
     printData(dictionary, key)
     (newDict, newKey) = addData(dictionary, key)
